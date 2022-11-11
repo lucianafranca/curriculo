@@ -1,0 +1,11 @@
+C:\Users\Tecnico\source\repos\curriculo\curriculo\bin\Debug\netcoreapp2.1\curriculo.deps.json
+C:\Users\Tecnico\source\repos\curriculo\curriculo\bin\Debug\netcoreapp2.1\curriculo.runtimeconfig.json
+C:\Users\Tecnico\source\repos\curriculo\curriculo\bin\Debug\netcoreapp2.1\curriculo.runtimeconfig.dev.json
+C:\Users\Tecnico\source\repos\curriculo\curriculo\bin\Debug\netcoreapp2.1\curriculo.dll
+C:\Users\Tecnico\source\repos\curriculo\curriculo\bin\Debug\netcoreapp2.1\curriculo.pdb
+C:\Users\Tecnico\source\repos\curriculo\curriculo\obj\Debug\netcoreapp2.1\curriculo.csprojAssemblyReference.cache
+C:\Users\Tecnico\source\repos\curriculo\curriculo\obj\Debug\netcoreapp2.1\curriculo.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\source\repos\curriculo\curriculo\obj\Debug\netcoreapp2.1\curriculo.AssemblyInfoInputs.cache
+C:\Users\Tecnico\source\repos\curriculo\curriculo\obj\Debug\netcoreapp2.1\curriculo.AssemblyInfo.cs
+C:\Users\Tecnico\source\repos\curriculo\curriculo\obj\Debug\netcoreapp2.1\curriculo.dll
+C:\Users\Tecnico\source\repos\curriculo\curriculo\obj\Debug\netcoreapp2.1\curriculo.pdb
